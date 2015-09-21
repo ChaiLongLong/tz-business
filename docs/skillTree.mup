@@ -1,0 +1,232 @@
+{
+  "title": "技能树",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "2": {
+      "title": "服务端",
+      "id": 18,
+      "ideas": {
+        "1": {
+          "title": "控制层",
+          "id": 27,
+          "ideas": {
+            "1": {
+              "title": "SpringMVC",
+              "id": 2,
+              "ideas": {
+                "1": {
+                  "title": "Bean Validation(JSR303)\n",
+                  "id": 7,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "RESTful WebService",
+                  "id": 8,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              70.5,
+              -97,
+              4
+            ],
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "模型层",
+          "id": 30,
+          "ideas": {
+            "1": {
+              "title": "SpringData",
+              "id": 3,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Hibernate",
+                  "id": 6,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "视图层",
+          "id": 28,
+          "ideas": {
+            "2": {
+              "title": "Tiles + JSP",
+              "id": 29,
+              "ideas": {}
+            },
+            "12": {
+              "title": "Thymeleaf",
+              "id": 26,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              76.5,
+              85,
+              3
+            ],
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          129.5,
+          -94,
+          28
+        ],
+        "style": {}
+      }
+    },
+    "-15.75": {
+      "title": "前端",
+      "id": 19,
+      "attr": {
+        "style": {},
+        "position": [
+          93.5,
+          -91,
+          30
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "AngularJs",
+          "id": 17,
+          "attr": {
+            "style": {},
+            "position": [
+              122,
+              -77,
+              3
+            ]
+          }
+        },
+        "2": {
+          "title": "bower",
+          "id": 20,
+          "attr": {
+            "position": [
+              127,
+              -26,
+              6
+            ],
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "grunt",
+          "id": 21,
+          "attr": {
+            "style": {},
+            "position": [
+              129,
+              27,
+              7
+            ]
+          }
+        },
+        "4": {
+          "title": "node",
+          "id": 22,
+          "attr": {
+            "position": [
+              131,
+              81,
+              8
+            ],
+            "style": {}
+          }
+        }
+      }
+    },
+    "-25.75": {
+      "title": "测试技术",
+      "id": 23,
+      "ideas": {
+        "2": {
+          "title": "junit",
+          "id": 25,
+          "attr": {
+            "style": {}
+          }
+        },
+        "12": {
+          "title": "Geb Automation",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "Groovy",
+              "id": 14
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          127.5,
+          94,
+          29
+        ],
+        "style": {}
+      }
+    },
+    "7.5": {
+      "title": "构建工具",
+      "id": 24,
+      "attr": {
+        "style": {},
+        "position": [
+          87.5,
+          102,
+          23
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Gradle",
+          "id": 12,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {}
+        },
+        "2": {
+          "title": "Maven",
+          "id": 31
+        }
+      }
+    }
+  },
+  "links": []
+}
